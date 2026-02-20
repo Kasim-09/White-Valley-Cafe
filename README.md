@@ -115,5 +115,5 @@ You may modify and use it freely.
 
 👨‍💻 Author
 
-Kasimhussain Vijapura 
+Kasimhussain Vijapura <br>
 kasim-09
